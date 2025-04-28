@@ -1,0 +1,1 @@
+timeout = 120  # Aumente o tempo limite para 120 segundos, se necessári
